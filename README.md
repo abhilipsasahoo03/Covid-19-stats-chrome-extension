@@ -20,12 +20,18 @@ Drag the folder to the chrome://extensions page.
 After successful installation, click on the icon to display.
 
 Else, for Windows:
-1- Open the chrome://extensions page.
-2- Check the Developer mode checkbox in the top right-hand corner.
-3- Click “Load Unpacked” to see a file-selection dialog. 
-4- Select your extension directory, if the extension is valid, it’ll be added and assigned a unique ID
-5- Click on the icon in list of extensions to view the page.
-6- Pin it if you want to use it frequently.
+
+  1- Open the chrome://extensions page.
+
+  2- Check the Developer mode checkbox in the top right-hand corner.
+
+  3- Click “Load Unpacked” to see a file-selection dialog. 
+
+  4- Select your extension directory, if the extension is valid, it’ll be added and assigned a unique ID
+
+  5- Click on the icon in list of extensions to view the page.
+
+  6- Pin it if you want to use it frequently.
 
 
 
