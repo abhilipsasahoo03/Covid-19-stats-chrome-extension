@@ -7,6 +7,8 @@ manifest.json - helps in launching the stats.html file
 
 stats.html - a webpage to update you with live Covid-19 updates worldwide
 
+style.css - a CSS file to define styles and fonts for stats.html file
+
 stats_icon.png - a statisics icon that is an integral part of the extension, where you can click and begin the execution of the extension
 
 ## Adding a chrome extension:
